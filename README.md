@@ -2,6 +2,8 @@
 
 This project is a chess game developed using Python and Pygame. It provides a graphical interface where players can interactively move chess pieces on an 8x8 board. The game supports basic chess mechanics, including piece selection, movement highlighting, and capturing opponent pieces, offering an engaging experience for chess enthusiasts and those interested in game development with Pygame.
 
+![image](https://github.com/user-attachments/assets/11e98566-e67d-4b93-8678-5e9821b23ac4)
+
 ## Features
 
 - **Interactive Chessboard**: An 8x8 grid representing the chessboard with alternating colored squares for clear visualization.
