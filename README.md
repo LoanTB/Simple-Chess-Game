@@ -17,27 +17,6 @@ This project is a chess game developed using Python and Pygame. It provides a gr
 - **Python 3.x**
 - **Pygame**: Install via pip with `pip install pygame`
 
-## How to Run
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/LoanTB/Simple-Chess-Game.git
-    cd Simple-Chess-Game
-    ```
-
-2. **Install Pygame if not already installed:**
-
-    ```bash
-    pip install pygame
-    ```
-
-3. **Run the game:**
-
-    ```bash
-    python main.py
-    ```
-
 ## Game Controls
 
 - **Mouse Click**:
